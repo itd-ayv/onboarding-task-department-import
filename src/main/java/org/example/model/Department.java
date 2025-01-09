@@ -26,6 +26,6 @@ public class Department {
     }
 
     public List<Department> getChildDepartments() {
-        return  childDepartments;
+        return childDepartments;
     }
 }
